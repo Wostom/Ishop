@@ -3,7 +3,6 @@
 echo "my shop";
 
 
-
  ?>
 
 <!DOCTYPE html>
@@ -13,6 +12,8 @@ echo "my shop";
 	<title>haha</title>
 </head>
 <body>
-	<hr />
+	<div class="wrap">
+		
+	</div>
 </body>
 </html>
