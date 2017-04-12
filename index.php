@@ -13,6 +13,6 @@ echo "my shop";
 	<title>haha</title>
 </head>
 <body>
-	<hr />
+	
 </body>
 </html>
